@@ -3,7 +3,9 @@
 ## Git & GitHub
 
 ### Workflow
+
 *by Andrew Fink*
+
 1. pull from remote master into your local master
 2. checkout branch
 3. do work, commit.
@@ -17,7 +19,9 @@
 11. as soon as a branch is merged to master on GitHub, make your entire team pull from master
 
 ### Workflow (Rebase method)
+
 *by Jason Noble*
+
 1. pull from remote master into your local master
 2. checkout branch
 3. do work, commit.
