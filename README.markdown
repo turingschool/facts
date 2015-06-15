@@ -3,7 +3,6 @@
 ## Git & GitHub
 
 ### Workflow
-
 *by Andrew Fink*
 
 1. pull from remote master into your local master
@@ -19,7 +18,6 @@
 11. as soon as a branch is merged to master on GitHub, make your entire team pull from master
 
 ### Workflow (Rebase method)
-
 *by Jason Noble*
 
 1. pull from remote master into your local master
@@ -34,3 +32,15 @@
 10. open pull request on GitHub.
 11. as soon as a branch is merged to master on GitHub, make your entire team pull from master
 
+### Workflow (using Waffle.io)
+*by Jason Wright & Adam Caron*
+
+1. add issue in Waffle.io
+2. create feature branch
+3. do some code
+4. push branch
+5. submit pull request, with description that "closes 'issue#'" (ie. "closes #1")
+6. other person reviews pull request
+7. (if merged) git checkout master
+8. git pull origin master
+9. merge master into branch
