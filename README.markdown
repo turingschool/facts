@@ -1,5 +1,13 @@
 # Turing School Wiki
 
+## Josh Cheek Goodness
+
+* [Enigma: Decrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-decryption.mp4)
+* [Enigma: Encrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-refactor-encryption-2.mp4)
+* [Ruby Object Model Gist](https://gist.github.com/JoshCheek/8ea9796b823e8fbbc019)
+* [Ruby Object Model Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
+
+
 ## Git & GitHub
 
 ### Workflow
