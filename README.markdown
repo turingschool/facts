@@ -1,5 +1,7 @@
 # Turing School Wiki
 
+Purpose: To capture some of the useful links and references that would otherwise be lost in the Slack ether.
+
 ## Josh Cheek Goodness
 
 * [Enigma: Decrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-decryption.mp4)
