@@ -31,6 +31,7 @@ module and project. Pull requests highly appreciated!
   - [Project Overview](https://github.com/turingschool/challenges/blob/master/credit_check.markdown)
 * **Chisel**
   - [Project Overview](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown)
+  - [Regex/Gsub](http://stackoverflow.com/questions/3699459/conditionally-strip-html-node-regexp-gsub)
 * **Sales Engine**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
   - [Jeff breaking down Sales Engine](https://vimeo.com/117419652)
