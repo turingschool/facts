@@ -4,11 +4,14 @@ The purpose of this wiki is to collect useful links (blog posts, articles, video
 module and project. Pull requests highly appreciated! 
 
 ####Module 4
-
+* **D3**
+  - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
 
 ####Module 3
 * **Feed Engine**
-  - 
+  
+* **Eloquent Javascript**
+  - [The first 6 chapters are a great start to your javascript education] (http://eloquentjavascript.net/)
 
 
 ####Module 2
@@ -16,6 +19,8 @@ module and project. Pull requests highly appreciated!
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 * **Contact Manager** 
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
+* **Hartl Tutorial**
+  - [A reference for your entire time at Turing] (https://www.railstutorial.org/book/beginning)
 
 ####Module 1
 * **Enigma**
@@ -48,3 +53,5 @@ module and project. Pull requests highly appreciated!
   - [Deaf Grandma](https://github.com/turingschool/challenges/blob/master/deaf_grandma.markdown)
   - [Mythical Creatures](https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures)
   - [Objects and Methods](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
+* **Sorting...what is <=> operator and how does it really work?**
+  - [Stackoverflow] (http://stackoverflow.com/questions/26581619/rubys-operator-and-sort-method)
