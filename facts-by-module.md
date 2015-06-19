@@ -1,7 +1,7 @@
 ##Modules 
 
-The purpose of this wiki is to 
-Share links/content you found helpful! Feel free to add content to any of the modules. 
+The purpose of this wiki is to collect useful links (blog posts, articles, videos, stack overflows answers) sorted by
+module and project. Pull requests highly appreciated! 
 
 ####Module 4
 
