@@ -46,14 +46,5 @@
 8. git pull origin master
 9. merge master into branch
 
-## Module 1
-### Enigma
-* [Refactoring Decrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-decryption.mp4)
-* [Refactoring Encrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-refactor-encryption-2.mp4)
-
-### Ruby Object Model
-* [Ruby Object Model Gist](https://gist.github.com/JoshCheek/8ea9796b823e8fbbc019)
-* [Ruby Object Model Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
-
-### SalesEngine
-* [Breaking Down SalesEngine Video](https://vimeo.com/117419652)
+## Module-Specific
+See [Facts by Module](facts-by-module.md)
