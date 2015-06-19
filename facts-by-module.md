@@ -9,9 +9,9 @@ module and project. Pull requests highly appreciated!
 
 ####Module 3
 * **Feed Engine**
-  
+
 * **Eloquent Javascript**
-  - [The first 6 chapters are a great start to your javascript education] (http://eloquentjavascript.net/)
+  - [The first 6 chapters are a great start to your javascript education. Chapter 10 is useful for learning about modules and namespacing in Javascript. Also read chapter 20 for a quick explanation of node.] (http://eloquentjavascript.net/)
 
 
 ####Module 2
@@ -53,5 +53,5 @@ module and project. Pull requests highly appreciated!
   - [Deaf Grandma](https://github.com/turingschool/challenges/blob/master/deaf_grandma.markdown)
   - [Mythical Creatures](https://github.com/turingschool/ruby-exercises/tree/master/mythical-creatures)
   - [Objects and Methods](https://github.com/turingschool/ruby-exercises/tree/master/objects-and-methods)
-* **Sorting...what is <=> operator and how does it really work?**
+* **Sorting...wtf is <=> operator and how does it really work?**
   - [Stackoverflow] (http://stackoverflow.com/questions/26581619/rubys-operator-and-sort-method)
