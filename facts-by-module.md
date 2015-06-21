@@ -8,10 +8,8 @@ module and project. Pull requests highly appreciated!
   - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
 
 ####Module 3
-* **Feed Engine**
-  
 * **Eloquent Javascript**
-  - [The first 6 chapters are a great start to your javascript education] (http://eloquentjavascript.net/)
+  - [The first 6 chapters are a great start to your javascript education](http://eloquentjavascript.net/)
 
 
 ####Module 2
@@ -36,6 +34,7 @@ module and project. Pull requests highly appreciated!
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
   - [Jeff breaking down Sales Engine](https://vimeo.com/117419652)
   - [Relational data bases](https://www.youtube.com/watch?v=NvrpuBAMddw)
+  - Pro tip: consistent naming! Help your future selves by commenting which chain the method is a part of.  
 * **Ruby Object Model Gist**
   - [Gist](https://gist.github.com/JoshCheek/8ea9796b823e8fbbc019)
   - [Ruby Object Model Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
