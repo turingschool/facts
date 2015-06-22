@@ -6,6 +6,16 @@ module and project. Pull requests highly appreciated!
 ####Module 4
 * **D3**
   - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
+* **MDN**
+  - [The Mozilla Developer Network](https://developer.mozilla.org/en-US/) - The holy grail of docs for all things frontend (HTML/CSS/JS).
+* **Books**
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Shorter books on specific topics.
+  - [Functional JavaScript](http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726) - Why state mutation is evil.
+  - [JavaScript Allonge](https://leanpub.com/javascript-allonge/) - There's also an [ES6 edition](https://leanpub.com/javascriptallongesix/read)
+* **ES2015 and Babel**
+  - [Babel](http://babeljs.io) - ES2015 (formerly ES6) transpiler.
+  - [Learn ES2015](https://babeljs.io/docs/learn-es2015/).
+  - [Steve's talk from RailsConf 2015](http://www.stevekinney.net/speaking/2015/4/railsconf) - Using JavaScript from the future in your Rails app today.
 
 ####Module 3
 * **Eloquent Javascript**
