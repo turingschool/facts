@@ -17,6 +17,7 @@ The purpose of this wiki is to share resources related to languages and framewor
 
 ####Javascript
 - [Eloquent Javascript](http://eloquentjavascript.net/)
+- [Secrets of a JS Ninja](http://www.kamcheng.me/js-examples/ninja.pdf)
 - [D3 Tutorial (by Mike Bostock)](https://github.com/mbostock/d3/wiki/Tutorials)
 - [D3 Tutorial (by Scott Murray)](http://alignedleft.com/tutorials/d3)
 
