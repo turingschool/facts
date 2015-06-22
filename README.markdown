@@ -46,5 +46,8 @@
 8. git pull origin master
 9. merge master into branch
 
+#### Workflow (ThoughtBot)
+[Git Protocol Guide](https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md)
+
 ## Module-Specific
 See [Facts by Module](facts-by-module.md)
