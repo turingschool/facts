@@ -49,5 +49,7 @@
 #### Workflow (ThoughtBot)
 [Git Protocol Guide](https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md)
 
-## Module-Specific
+#### Module-Specific
 See [Facts by Module](facts-by-module.md)
+#### Languages and Frameworks
+See [Language Resources](language-resources.md)
