@@ -9,6 +9,7 @@ module and project. Pull requests highly appreciated!
 
 * **Node.js and Express Tutorial**
   - [Quick tutorial on some node.js and Express (Sinatra for Node) basics] (http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+  - [Setting up Mongo for the node.js and Express tutorial] (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
 
 ####Module 3
 * **Eloquent Javascript**
