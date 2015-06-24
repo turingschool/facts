@@ -7,6 +7,10 @@ module and project. Pull requests highly appreciated!
 * **D3**
   - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
 
+* **Node.js and Express Tutorial**
+  - [Quick tutorial on some node.js and Express (Sinatra for Node) basics] (http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+  - [Setting up Mongo for the node.js and Express tutorial] (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
+
 ####Module 3
 * **Eloquent Javascript**
   - [The first 6 chapters are a great start to your javascript education](http://eloquentjavascript.net/)
