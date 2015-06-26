@@ -1,24 +1,36 @@
-##Modules 
+##Modules
 
 The purpose of this wiki is to collect useful links (blog posts, articles, videos, stack overflows answers) sorted by
-module and project. Pull requests highly appreciated! 
+module and project. Pull requests highly appreciated!
 
 ####Module 4
 * **D3**
   - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
 
+* **Node.js and Express Tutorial**
+  - [Quick tutorial on some node.js and Express (Sinatra for Node) basics]  (http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+  - [Setting up Mongo for the node.js and Express tutorial] (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
+
+* **Javascript is Sexy**
+  - [Closures. Great explanations with examples] (http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+  - [CallBacks] (http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+
 ####Module 3
 * **Eloquent Javascript**
-  - [The first 6 chapters are a great start to your javascript education](http://eloquentjavascript.net/)
+  - [The first 6 chapters are a great start to your javascript education. Chapter 10 is useful for learning about modules and namespacing in Javascript. Also read chapter 20 for a quick explanation of node.] (http://eloquentjavascript.net/)
+
+* **Javascript is Sexy**
+  - [Hoisting and Variable Scope] (http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
 
 ####Module 2
+* **Hartl Tutorial**
+  - [A great beginner Rails reference] (https://www.railstutorial.org/book/beginning)
 * **Dinner Dash**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
-* **Contact Manager** 
+* **Contact Manager**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
-* **Hartl Tutorial**
-  - [A reference for your entire time at Turing] (https://www.railstutorial.org/book/beginning)
+
 
 ####Module 1
 * **Enigma**
@@ -42,7 +54,7 @@ module and project. Pull requests highly appreciated!
 * **Bubble Sort**
   - [Project Overview](https://github.com/turingschool/challenges/blob/master/bubble_sort.markdown)
   - [Visual Presentation of Bubble Sort](https://www.youtube.com/watch?v=lyZQPjUT5B4)
-* **Fibonacci** 
+* **Fibonacci**
   - [Project Overview](https://github.com/turingschool/challenges/blob/master/fibber.markdown)
   - [Explaining Fibonacci](https://www.youtube.com/watch?v=HsoStYDLy20)
   - [Fibonacci series in context](https://www.youtube.com/watch?v=SjSHVDfXHQ4) - Ted Talk by Arthur Benjamin
