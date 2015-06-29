@@ -17,6 +17,7 @@ module and project. Pull requests highly appreciated!
 
 * **Angular Tutorials**
   - [An explanation of controllers, models, services, modules] (http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
+  - [A collection of Angular resources and tutorials] (https://thinkster.io/a-better-way-to-learn-angularjs/)
 
 ####Module 3
 * **Eloquent Javascript**
