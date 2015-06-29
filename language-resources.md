@@ -20,7 +20,7 @@ The purpose of this wiki is to share resources related to languages and framewor
 - [Secrets of a JS Ninja](http://www.kamcheng.me/js-examples/ninja.pdf)
 - [D3 Tutorial (by Mike Bostock)](https://github.com/mbostock/d3/wiki/Tutorials)
 - [D3 Tutorial (by Scott Murray)](http://alignedleft.com/tutorials/d3)
-
+- [Web Audio API](https://www.youtube.com/watch?t=39&v=56spBAgOYfg)
 
 ####Swift
 - [Intro to Swift for Rubyists](http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers)
