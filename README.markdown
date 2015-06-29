@@ -1,7 +1,14 @@
 # Turing School Wiki
 *Purpose: To capture some of the useful links and references that would otherwise be lost in the Slack ether.*
 
+## Module-Specific
+See [Facts by Module](facts-by-module.md)
+
 ## Non-Module Specific
+
+### Languages and Frameworks
+See [Language Resources](language-resources.md)
+
 ### Git & GitHub
 #### Workflow
 *by Andrew Fink*
@@ -48,8 +55,3 @@
 
 #### Workflow (ThoughtBot)
 [Git Protocol Guide](https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md)
-
-#### Module-Specific
-See [Facts by Module](facts-by-module.md)
-#### Languages and Frameworks
-See [Language Resources](language-resources.md)
