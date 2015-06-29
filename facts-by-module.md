@@ -46,11 +46,12 @@ module and project. Pull requests highly appreciated!
 * **Chisel**
   - [Project Overview](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/chisel.markdown)
   - [Regex/Gsub](http://stackoverflow.com/questions/3699459/conditionally-strip-html-node-regexp-gsub)
+  - [Declarative Technique](https://vimeo.com/131588133)
 * **Sales Engine**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
   - [Jeff breaking down Sales Engine](https://vimeo.com/117419652)
   - [Relational data bases](https://www.youtube.com/watch?v=NvrpuBAMddw)
-  - Pro tip: consistent naming! Help your future selves by commenting which chain the method is a part of.  
+  - Pro tip: consistent naming! Help your future selves by commenting which chain the method is a part of.
 * **Ruby Object Model Gist**
   - [Gist](https://gist.github.com/JoshCheek/8ea9796b823e8fbbc019)
   - [Ruby Object Model Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
