@@ -15,6 +15,10 @@ module and project. Pull requests highly appreciated!
   - [Closures. Great explanations with examples] (http://javascriptissexy.com/understand-javascript-closures-with-ease/)
   - [CallBacks] (http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
+* **Angular Tutorials**
+  - [An explanation of controllers, models, services, modules] (http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
+  - [A collection of Angular resources and tutorials] (https://thinkster.io/a-better-way-to-learn-angularjs/)
+
 ####Module 3
 * **Eloquent Javascript**
   - [The first 6 chapters are a great start to your javascript education. Chapter 10 is useful for learning about modules and namespacing in Javascript. Also read chapter 20 for a quick explanation of node.] (http://eloquentjavascript.net/)
