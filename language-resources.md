@@ -11,6 +11,7 @@ The purpose of this wiki is to share resources related to languages and framewor
 - [Ruby in 100 mins](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 - [Learn x in y](http://learnxinyminutes.com/docs/ruby/)
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/)
+- [What's the difference between a block, proc and lambda?](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 
 ####Rails
 - [Rails Tutorial (book)](https://www.railstutorial.org/book)
