@@ -55,3 +55,7 @@ See [Language Resources](language-resources.md)
 
 #### Workflow (ThoughtBot)
 [Git Protocol Guide](https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md)
+
+#### Git In Depth Basics for non-programmy People
+*by Dave Maurer*
+[Public Gist](https://gist.github.com/davemaurer/cd97d99309aa6744b344)
