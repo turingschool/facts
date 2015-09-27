@@ -52,6 +52,10 @@ module and project. Pull requests highly appreciated!
   - [Jeff breaking down Sales Engine](https://vimeo.com/117419652)
   - [Relational data bases](https://www.youtube.com/watch?v=NvrpuBAMddw)
   - Pro tip: consistent naming! Help your future selves by commenting which chain the method is a part of.
+* **Headcount**
+  - [Project Overview](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+  - [Decomposing Headcount, pep talk from Horace](https://gist.github.com/worace/e5da37c9723dc087c84c)
+  - [Testing Small Datasets and Edge Cases, a story by Josh Cheek](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/testing_with_small_datasets%E2%80%A6_the_fictional_story_of_a_plumber_who_learns_about_fixtures_mocks_and_stubs_and_ignoring_all_that_shit_and_simplifying_your_design_instead.markdown)
 * **Ruby Object Model Gist**
   - [Gist](https://gist.github.com/JoshCheek/8ea9796b823e8fbbc019)
   - [Ruby Object Model Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/object-model-bindings-locals-the-stack.mp4)
