@@ -1,26 +1,26 @@
 ### Turing School FAQs
 All of your Turing WTFs can be found here. If it's not, shoot us a pull request and we'll try to answer it!
 
-##Q. What is a cohort/module?
+## Q. What is a cohort/module?
 The cohort is the people that you take classes with. The module is the collection of classes. There are four modules. In the first one you learn Ruby, in the second you learn Rails and Sinatra, in the third and fourth you build on these skills.
 
-##Q. What is a posse?
+## Q. What is a posse?
 A posse is a group you are placed in that consists of students across all cohorts. You'll meet with other Turing students in your posse for 30 min. every morning to do warm-up exercises, and they can be a great resource for project help. Your slack channel will also have Turing alumni from your posse in it, and you can ask them for mentoring/pairing help.<br />
 [If you are curious about who the posses are names after, you can read about it here.](posse-namesakes.md)
 
-##Q. What is a mentor? How do I get one?
+## Q. What is a mentor? How do I get one?
 A mentor is someone that has either graduated from Turing or has a connection another way. They have expressed a willingness to pair with you on projects, exercisms or just general questions in order to supplement your class time. You can either get a mentor by reaching out to Mary Cutrali, the mentor wrangler at Turing, through your posse slack channel or from reaching out directly to someone on the [mentor spreadsheet](https://docs.google.com/spreadsheets/d/1VU9hYwBdCZOHehyjis6Rx01RFpC9aDUj-zisNRQjL94/edit#gid=411918470).
 
-##Q. What is pairing?
+## Q. What is pairing?
 Pairing is when you work with a partner on one set of code. You can have two people work on one laptop, plug your laptop into one of the big screens with two keyboards and both work at the same time, or work via [screenhero](https://screenhero.com/) or another screensharing app.
 
-##QWhy pair?
+## Q. Why pair?
 Sometimes two heads are better then one.
 
-##Q. So, I can plug into those big screens in the work space?
+## Q. So, I can plug into those big screens in the work space?
 Yes, go for it. They are available for anyone to use.
 
-##Q. What is exercism?
+## Q. What is exercism?
 [Excercism](http://exercism.io/) is a site where you can practice your Ruby (or other languages) with  coding exercises. When you think you're done, post your answer to the site and other users will give you feedback on how you can improve. Pairing on exercism can be a great activity to do with a mentor.
 
 ##Q. Why do some people have cool terminal set-ups? How do I get one?
@@ -59,7 +59,7 @@ Lots! There is the Joan Clarke Society for anyone who identifies as female and t
 ##Q. What's in all those cubbies? Can I put things in those cubbies? Can I take things from them?
 Do it, grab a cubby. Anywhere you want. You can keep all your stuff in it. There are also cubbies in Classroom A that you can take stuff from: T-shirts, Headache Medicine, Art Supplies, Lost and Found - they are all labeled. Just don't take anything from anyone's personal cubby :)
 
-##Q. I need caffine? Can I make coffee?
+##Q. I need caffine. Can I make coffee?
 Please do!
 
 ##Q. How long can I keep my food in the fridge?
