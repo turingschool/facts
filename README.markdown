@@ -1,6 +1,10 @@
 # Turing School Wiki
 *Purpose: To capture some of the useful links and references that would otherwise be lost in the Slack ether.*
 
+## Your Questions About Turing Answered Here
+See [Turing School FAQs](faqs.md)
+(Mostly for new students)
+
 ## Module-Specific
 See [Facts by Module](facts-by-module.md)
 

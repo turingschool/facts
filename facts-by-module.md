@@ -1,42 +1,50 @@
-##Modules
+## Modules
 
-The purpose of this wiki is to collect useful links (blog posts, articles, videos, stack overflows answers) sorted by
-module and project. Pull requests highly appreciated!
+The purpose of this wiki is to collect useful links (blog posts, articles, videos, stack overflows answers) sorted by module and project. <br /><br />
+*Pull requests highly appreciated!*
 
-####Module 4
+#### Module 4
 * **D3**
-  - [D3 Tutorial that makes the unintuitive less so] (http://alignedleft.com/tutorials/d3)
-
+  - [D3 Tutorial that makes the unintuitive less so](http://alignedleft.com/tutorials/d3)
 * **Node.js and Express Tutorial**
-  - [Quick tutorial on some node.js and Express (Sinatra for Node) basics]  (http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
-  - [Setting up Mongo for the node.js and Express tutorial] (http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
-
+  - [Quick tutorial on some node.js and Express (Sinatra for Node) basics](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+  - [Setting up Mongo for the node.js and Express tutorial](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/)
 * **Javascript is Sexy**
-  - [Closures. Great explanations with examples] (http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-  - [CallBacks] (http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-
+  - [Closures. Great explanations with examples](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+  - [CallBacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * **Angular Tutorials**
-  - [An explanation of controllers, models, services, modules] (http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
-  - [A collection of Angular resources and tutorials] (https://thinkster.io/a-better-way-to-learn-angularjs/)
+  - [An explanation of controllers, models, services, modules](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
+  - [A collection of Angular resources and tutorials](https://thinkster.io/a-better-way-to-learn-angularjs/)
 
-####Module 3
+#### Module 3
 * **Eloquent Javascript**
-  - [The first 6 chapters are a great start to your javascript education. Chapter 10 is useful for learning about modules and namespacing in Javascript. Also read chapter 20 for a quick explanation of node.] (http://eloquentjavascript.net/)
-
+  - [The first 6 chapters are a great start to your javascript education. Chapter 10 is useful for learning about modules and namespacing in Javascript. Also read chapter 20 for a quick explanation of node.](http://eloquentjavascript.net/)
 * **Javascript is Sexy**
-  - [Hoisting and Variable Scope] (http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+  - [Hoisting and Variable Scope](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
 
-####Module 2
+#### Module 2
 * **Hartl Tutorial**
-  - [A great beginner Rails reference] (https://www.railstutorial.org/book/beginning)
+  - [A great beginner Rails reference](https://www.railstutorial.org/book/beginning)
 * **Dinner Dash**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/dinner_dash.html)
 * **Contact Manager**
   - [Project Overview](http://tutorials.jumpstartlab.com/projects/contact_manager.html)
 
 
-####Module 1
+#### Module 1
+Students with previous programming experience will be placed in **Echo**, without in **Foxtrot**. Students can move between the groups with permission from an instructor.
+
+* **Night Writer**
+- [Project Overview](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* **Binary Search Tree**
+  - [Project Overview](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+* **Binary Search Tree**
+  - [Project Overview](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)   
+* **Sorting Suite**
+  - [Project Overview](https://github.com/turingschool/sorting-suite)   
+* **HTTP Yeah You Know Me**
+  - [Project Overview](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)  
 * **Enigma**
   - [Project Overview](https://github.com/turingschool/enigma)
   - [Refactoring Decrypt Screencast](https://s3.amazonaws.com/josh.cheek/screencasts/Enigma-decryption.mp4)
