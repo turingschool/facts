@@ -29,7 +29,7 @@ Your terminal set-up is a very personal thing. If someone has a set up you like,
 ##Q. How do I "pass" a module?
 In module 1, in addition to submitting and defending your portfolio you must receive 3s or higher on your pairing project (Headcount) and on your assessment.
 
-##Q. What a portfolio and how do I make one?
+##Q. What is a portfolio and how do I make one?
 A portfolio is a summary of your individual, team and community accomplishments during a module. You must submit one to the [turing github repository](https://github.com/turingschool/portfolios) and defend it in order to move on to the next module.
 
 ##Q. What is an assesment?
