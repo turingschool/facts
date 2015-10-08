@@ -27,7 +27,7 @@ Yes, go for it. They are available for anyone to use.
 Your terminal set-up is a very personal thing. If someone has a set up you like, ask them how they got it and they can probably help you. Some of the options you might want to consider: personalizing your color scheme, adding SiB, MrSpec and Fish, whether you want to use Atom or Vim, etc...
 
 ##Q. How do I "pass" a module?
-In module 1, in addition to submitting and defending your portfolio you must receive 3s or higher on your pairing project (Headcount) and on your assessment.
+In module 1, in addition to submitting and defending your portfolio you must receive 3s or higher on your pairing project (Headcount) and on your [assessment] (http://tutorials.jumpstartlab.com/academy/assessments/scrabble.html).
 
 ##Q. What is a portfolio and how do I make one?
 A portfolio is a summary of your individual, team and community accomplishments during a module. You must submit one to the [turing github repository](https://github.com/turingschool/portfolios) and defend it in order to move on to the next module.
