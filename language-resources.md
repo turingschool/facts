@@ -23,5 +23,11 @@ The purpose of this wiki is to share resources related to languages and framewor
 - [D3 Tutorial (by Scott Murray)](http://alignedleft.com/tutorials/d3)
 - [Web Audio API](https://www.youtube.com/watch?t=39&v=56spBAgOYfg)
 
+####Ember
+- [TodoMVC](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/)
+
+####ReactJS
+- [ExpenseApp With Rails](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers)
+
 ####Swift
 - [Intro to Swift for Rubyists](http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers)
