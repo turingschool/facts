@@ -15,7 +15,7 @@ A mentor is someone that has either graduated from Turing or has a connection an
 Pairing is when you work with a partner on one set of code. You can have two people work on one laptop, plug your laptop into one of the big screens with two keyboards and both work at the same time, or work via [screenhero](https://screenhero.com/) or another screensharing app.
 
 ## Q. Why pair?
-Sometimes two heads are better then one.
+Sometimes two heads are better than one.
 
 ## Q. So, I can plug into those big screens in the work space?
 Yes, go for it. They are available for anyone to use.
