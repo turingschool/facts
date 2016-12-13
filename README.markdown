@@ -29,6 +29,10 @@ See [Language Resources](language-resources.md)
 10. open pull request on GitHub.
 11. as soon as a branch is merged to master on GitHub, make your entire team pull from master
 
+### Lightening Talks
+
+There are 3 purposes for public speech: to inform, to persuade, and to entertain. Here's a resource for your invormative, 5-minute lightening talk: http://www.usd389.net/vimages/shared/vnews/stories/4d221c541bf5e/InformativeSpeech.pdf
+
 #### Workflow (Rebase method)
 *by Jason Noble*
 
